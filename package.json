@@ -1,1 +1,1 @@
-{"name":"microbiome-life","private":true,"type":"module","scripts":{"test":"node --test && python3 -m unittest discover -p '*_test.py'","start":"python3 server.py"}}
+{"name":"microbiome-life","private":true,"type":"module","scripts":{"test":"python3 -m unittest discover -p '*_test.py'","start":"python3 server.py"}}
